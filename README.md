@@ -1,5 +1,5 @@
 # Project Name
-Gateway_test React App
+gateway_app
 
 ## Demo link:
 http://localhost:3000
@@ -11,7 +11,7 @@ http://localhost:3000
 - [Setup](#setup)
 
 ## About The App
-Gateway_test is an app for  managing gateways - master devices that control multiple peripheral devices
+gateway_app is an app for  managing gateways - master devices that control multiple peripheral devices
 
 ## Technologies
 It was used `Reactjs`, `Bootstrap`, `JavaScript`
