@@ -17,7 +17,7 @@ Gateway_test is an app for  managing gateways - master devices that control mult
 It was used `Reactjs`, `Bootstrap`, `JavaScript`
 
 ## Repository
-It was used `Reactjs`, `Bootstrap`, `JavaScript`
+https://github.com/ybreff/gatewayweb.git
 
 ## Setup
 - download or clone the repository
